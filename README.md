@@ -12,5 +12,5 @@ This is the Conway Game of Life.
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python tkinter library
-- Python math library
+- Python `tkinter` library
+- Python `math` library
